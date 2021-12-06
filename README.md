@@ -32,3 +32,5 @@ Arduino code for using SoftwareSerial to connect Sharp PC-G850V(S) via an Arduin
  *
  * This code is released under the [MIT License](http://opensource.org/licenses/MIT).
  *****************************************************************/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HVVmPWCUGlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
