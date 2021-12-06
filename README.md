@@ -11,6 +11,8 @@ Arduino code for using SoftwareSerial to connect Sharp PC-G850V(S) via an Arduin
  * and pulled-up to +5V. otherwise SHarp will wait forever.
  * 
  *
+ * See https://youtu.be/HVVmPWCUGlw for details
+ *
  * Hardware Hookup:
  * * 
  * Sharp G850 11 pin port     Arduino Nano
